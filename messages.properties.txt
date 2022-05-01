@@ -1,0 +1,2 @@
+user.userName.empty=User Name cannot be empty!
+user.password.empty=Password cannot be empty!
